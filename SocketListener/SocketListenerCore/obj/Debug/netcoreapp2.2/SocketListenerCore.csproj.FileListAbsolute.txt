@@ -1,0 +1,11 @@
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListenerCore\bin\Debug\netcoreapp2.2\SocketListenerCore.deps.json
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListenerCore\bin\Debug\netcoreapp2.2\SocketListenerCore.runtimeconfig.json
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListenerCore\bin\Debug\netcoreapp2.2\SocketListenerCore.runtimeconfig.dev.json
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListenerCore\bin\Debug\netcoreapp2.2\SocketListenerCore.dll
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListenerCore\bin\Debug\netcoreapp2.2\SocketListenerCore.pdb
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListenerCore\obj\Debug\netcoreapp2.2\SocketListenerCore.csprojAssemblyReference.cache
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListenerCore\obj\Debug\netcoreapp2.2\SocketListenerCore.csproj.CoreCompileInputs.cache
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListenerCore\obj\Debug\netcoreapp2.2\SocketListenerCore.AssemblyInfoInputs.cache
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListenerCore\obj\Debug\netcoreapp2.2\SocketListenerCore.AssemblyInfo.cs
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListenerCore\obj\Debug\netcoreapp2.2\SocketListenerCore.dll
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListenerCore\obj\Debug\netcoreapp2.2\SocketListenerCore.pdb

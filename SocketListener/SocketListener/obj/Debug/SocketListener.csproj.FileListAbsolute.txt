@@ -1,0 +1,7 @@
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListener\obj\Debug\SocketListener.csproj.CoreCompileInputs.cache
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListener\bin\Debug\SocketListener.exe.config
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListener\bin\Debug\SocketListener.exe
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListener\bin\Debug\SocketListener.pdb
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListener\obj\Debug\SocketListener.exe
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListener\obj\Debug\SocketListener.pdb
+C:\Users\bwa\Desktop\socket test\SocketListener\SocketListener\obj\Debug\SocketListener.csprojAssemblyReference.cache

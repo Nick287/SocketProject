@@ -1,0 +1,11 @@
+C:\Users\bwa\Desktop\socket test\SocketClient\SocketClientCore\bin\Debug\netcoreapp2.2\SocketClientCore.deps.json
+C:\Users\bwa\Desktop\socket test\SocketClient\SocketClientCore\bin\Debug\netcoreapp2.2\SocketClientCore.runtimeconfig.json
+C:\Users\bwa\Desktop\socket test\SocketClient\SocketClientCore\bin\Debug\netcoreapp2.2\SocketClientCore.runtimeconfig.dev.json
+C:\Users\bwa\Desktop\socket test\SocketClient\SocketClientCore\bin\Debug\netcoreapp2.2\SocketClientCore.dll
+C:\Users\bwa\Desktop\socket test\SocketClient\SocketClientCore\bin\Debug\netcoreapp2.2\SocketClientCore.pdb
+C:\Users\bwa\Desktop\socket test\SocketClient\SocketClientCore\obj\Debug\netcoreapp2.2\SocketClientCore.csprojAssemblyReference.cache
+C:\Users\bwa\Desktop\socket test\SocketClient\SocketClientCore\obj\Debug\netcoreapp2.2\SocketClientCore.csproj.CoreCompileInputs.cache
+C:\Users\bwa\Desktop\socket test\SocketClient\SocketClientCore\obj\Debug\netcoreapp2.2\SocketClientCore.AssemblyInfoInputs.cache
+C:\Users\bwa\Desktop\socket test\SocketClient\SocketClientCore\obj\Debug\netcoreapp2.2\SocketClientCore.AssemblyInfo.cs
+C:\Users\bwa\Desktop\socket test\SocketClient\SocketClientCore\obj\Debug\netcoreapp2.2\SocketClientCore.dll
+C:\Users\bwa\Desktop\socket test\SocketClient\SocketClientCore\obj\Debug\netcoreapp2.2\SocketClientCore.pdb

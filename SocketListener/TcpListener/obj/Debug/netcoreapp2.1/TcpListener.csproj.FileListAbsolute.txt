@@ -1,0 +1,11 @@
+C:\Users\bwa\Desktop\socket test\SocketListener\TcpListener\bin\Debug\netcoreapp2.1\TcpListener.deps.json
+C:\Users\bwa\Desktop\socket test\SocketListener\TcpListener\bin\Debug\netcoreapp2.1\TcpListener.runtimeconfig.json
+C:\Users\bwa\Desktop\socket test\SocketListener\TcpListener\bin\Debug\netcoreapp2.1\TcpListener.runtimeconfig.dev.json
+C:\Users\bwa\Desktop\socket test\SocketListener\TcpListener\bin\Debug\netcoreapp2.1\TcpListener.dll
+C:\Users\bwa\Desktop\socket test\SocketListener\TcpListener\bin\Debug\netcoreapp2.1\TcpListener.pdb
+C:\Users\bwa\Desktop\socket test\SocketListener\TcpListener\obj\Debug\netcoreapp2.1\TcpListener.csprojAssemblyReference.cache
+C:\Users\bwa\Desktop\socket test\SocketListener\TcpListener\obj\Debug\netcoreapp2.1\TcpListener.csproj.CoreCompileInputs.cache
+C:\Users\bwa\Desktop\socket test\SocketListener\TcpListener\obj\Debug\netcoreapp2.1\TcpListener.AssemblyInfoInputs.cache
+C:\Users\bwa\Desktop\socket test\SocketListener\TcpListener\obj\Debug\netcoreapp2.1\TcpListener.AssemblyInfo.cs
+C:\Users\bwa\Desktop\socket test\SocketListener\TcpListener\obj\Debug\netcoreapp2.1\TcpListener.dll
+C:\Users\bwa\Desktop\socket test\SocketListener\TcpListener\obj\Debug\netcoreapp2.1\TcpListener.pdb

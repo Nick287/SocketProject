@@ -1,0 +1,6 @@
+C:\Users\bwa\Desktop\socket test\SocketClient\WebSocketClient\bin\Debug\WebSocketClient.exe.config
+C:\Users\bwa\Desktop\socket test\SocketClient\WebSocketClient\bin\Debug\WebSocketClient.exe
+C:\Users\bwa\Desktop\socket test\SocketClient\WebSocketClient\bin\Debug\WebSocketClient.pdb
+C:\Users\bwa\Desktop\socket test\SocketClient\WebSocketClient\obj\Debug\WebSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\bwa\Desktop\socket test\SocketClient\WebSocketClient\obj\Debug\WebSocketClient.exe
+C:\Users\bwa\Desktop\socket test\SocketClient\WebSocketClient\obj\Debug\WebSocketClient.pdb

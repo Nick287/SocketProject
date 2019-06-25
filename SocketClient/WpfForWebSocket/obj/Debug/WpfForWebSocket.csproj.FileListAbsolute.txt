@@ -1,0 +1,15 @@
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\bin\Debug\WpfForWebSocket.exe.config
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\bin\Debug\WpfForWebSocket.exe
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\bin\Debug\WpfForWebSocket.pdb
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\obj\Debug\MainWindow.g.cs
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\obj\Debug\App.g.cs
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\obj\Debug\WpfForWebSocket_MarkupCompile.cache
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\obj\Debug\WpfForWebSocket_MarkupCompile.lref
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\obj\Debug\MainWindow.baml
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\obj\Debug\WpfForWebSocket.g.resources
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\obj\Debug\WpfForWebSocket.Properties.Resources.resources
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\obj\Debug\WpfForWebSocket.csproj.GenerateResource.cache
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\obj\Debug\WpfForWebSocket.csproj.CoreCompileInputs.cache
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\obj\Debug\WpfForWebSocket.exe
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\obj\Debug\WpfForWebSocket.pdb
+C:\Users\bwa\Desktop\socket test\SocketClient\WpfForWebSocket\obj\Debug\WpfForWebSocket.csprojAssemblyReference.cache

@@ -1,0 +1,20 @@
+version: '3.4'
+
+services:
+  tcpclient:
+    image: tcpclient:dev
+    build:
+      target: base
+    environment:
+      - NUGET_PACKAGES=C:\.nuget\packages
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_tcpclient$
+    volumes:
+      - C:\Users\bwa\Desktop\socket test\SocketClient\TcpClient:C:\app
+      - C:\Users\bwa\onecoremsvsmon:C:\remote_debugger:ro
+#$nuget_volume_mapping_tcpclient$
+    entrypoint: cmd /c "set DISABLE_PERFORMANCE_DEBUGGER=1 & C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646"
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_tcpclient$ bin\\Debug\\netcoreapp2.2\\TcpClient.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
+      com.microsoft.visualstudio.debuggee.killprogram: "C:\\remote_debugger\\x64\\utils\\KillProcess.exe dotnet.exe"

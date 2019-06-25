@@ -1,0 +1,5 @@
+C:\Users\bwa\Desktop\socket test\SocketListener\bin\Debug\TcpListener.dll
+C:\Users\bwa\Desktop\socket test\SocketListener\bin\Debug\TcpListener.pdb
+C:\Users\bwa\Desktop\socket test\SocketListener\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\bwa\Desktop\socket test\SocketListener\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\bwa\Desktop\socket test\SocketListener\obj\Debug\docker-compose.dcproj.CopyComplete

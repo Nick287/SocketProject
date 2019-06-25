@@ -1,0 +1,11 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  tcplistener:
+    build:
+      context: C:\Users\bwa\Desktop\socket test\SocketListener
+      dockerfile: TcpListener\Dockerfile
+    image: tcplistener
+version: '3.4'

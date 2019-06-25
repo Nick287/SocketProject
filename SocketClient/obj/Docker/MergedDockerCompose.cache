@@ -1,0 +1,11 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  tcpclient:
+    build:
+      context: C:\Users\bwa\Desktop\socket test\SocketClient
+      dockerfile: TcpClient\Dockerfile
+    image: tcpclient
+version: '3.4'

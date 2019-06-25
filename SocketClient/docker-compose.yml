@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  tcpclient:
+    image: ${DOCKER_REGISTRY-}tcpclient
+    build:
+      context: .
+      dockerfile: TcpClient\Dockerfile
